@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Leandro",
+        "surname": "Fernandez",
+        "age": 29,
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "hasCar": false
+    },
+    {
+        "firstName": "Nina",
+        "surname": "Gautreau",
+        "age": 27,
+        "city": "Bordeaux",
+        "country": "France",
+        "hasCar": true
+    },
+    {
+        "firstName": "Marc",
+        "surname": "Sirisak",
+        "age": 25,
+        "city": "Paris",
+        "country": "France",
+        "hasCar": false
+    }
+]

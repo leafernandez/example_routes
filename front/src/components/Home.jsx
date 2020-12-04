@@ -11,6 +11,9 @@ class Home extends Component {
     async componentDidMount() {
         try {
             const { data } = await network.getCountUsers()
+
+            //Appel à utiliser avant de finir de coder le back
+            // const data = network.getUsers()
             
             this.setState({ countUsers: data })
         } catch (error) {

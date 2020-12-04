@@ -19,6 +19,9 @@ class Users extends Component {
         try {
             const { data } = await network.getUsers()
 
+            //Appel à utiliser avant de finir de coder le back
+            // const data = network.getUsers()
+
             this.setState({ userNames: data })
         } catch (error) {
             console.log('Error: ', error);
@@ -30,6 +33,9 @@ class Users extends Component {
 
         try {
             const { data } = await network.getUser(evt.target.id)
+
+            //Appel à utiliser avant de finir de coder le back
+            // const data = network.getUser(evt.target.id)
 
             this.setState({ userDetails: data })
         } catch (error) {
