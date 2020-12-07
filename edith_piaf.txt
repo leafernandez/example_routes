@@ -1,4 +1,4 @@
-Non, rien de rien
+Oui, tout
 Non, je ne regrette rien
 Ni le bien qu'on m'a fait
 Ni le mal
@@ -8,6 +8,7 @@ Non, je ne regrette rien
 C'est payé, balayé, oublié
 Je me fous du passé
 
+Bonjour
 
 Avec mes souvenirs
 J'ai allumé le feu
